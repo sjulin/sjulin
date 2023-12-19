@@ -2,7 +2,7 @@ I’m Sjur Julin,
 
 like to play with computers and hardware
 
-programming in C
+programming in C and GLSL
 
 <!---
 sjulin/sjulin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
